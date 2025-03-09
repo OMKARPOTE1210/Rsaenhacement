@@ -8,7 +8,7 @@ Features
 
 Dynamic RSA Key Generation: Generates a 2048-bit RSA key pair with a public exponent of 65537.
 
-PKCS#1 v1.5 Padding: Ensures secure encryption.
+PKCS#1 v15 Padding: Ensures secure encryption.
 
 Random Salt Generation: Generates a 16-byte random salt before encryption.
 
